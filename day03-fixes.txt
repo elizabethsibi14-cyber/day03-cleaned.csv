@@ -1,0 +1,8 @@
+Problem 1: Blank rows in dataset
+Fix: Used "Remove Blank Rows" in Power Query
+
+Problem 2: Duplicate entries
+Fix: Used "Remove Duplicates" on ID column
+
+Problem 3: Inconsistent text (kerala, Kerala)
+Fix: Used "Capitalize Each Word" to standardize text
